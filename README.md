@@ -1,5 +1,6 @@
 # Router-On-A-Stick
 Elaborates how resources can be used on a Small Enterprise scale to give a big out put especially using a single Switch and Virtual Router Interfaces to restrict and enhance communication between various Vlans in a LAN Network.
+![image](https://github.com/RoggersAnguzu/Router-On-A-Stick/assets/141458053/fb12af50-b12a-44e8-80cf-51c92e80a42c)
 
 # Cisco Router-on-a-Stick Configuration with Multiple VLANs
 
